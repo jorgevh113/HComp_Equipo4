@@ -1,0 +1,6 @@
+Con la resolución de una problemática de tanta importancia, sobre todo en áreas de altos índices de contaminación como Monterrey, fue posible determinar el potencial que tiene
+la implementación de sistemas de dispositivos intercomunicados entre sí. Este proyecto representa uno de tantos ejemplos en los que el uso de la tecnología puede facilitar la vida
+cotidiana, llegando al punto de prevenir situaciones de riesgo para la población o permitir una repsuesta rápida y eficiente por parte de las autoridades ante desastres como
+el mencionado en la introducción. En una época donde prácticamente es posible la comunicación entre cualquier dipositivo, es posible crear todo tipo de sistema que cumpla
+con los requerimentos de cualquier situación de una forma rápida y eficiente. Por lo tanto, el desarrollo de este proyecto permitió al equipo tener un primer acercamiento a la creación
+de un sistema de dispositivos interconectados y a las posibilidades ilimitadas que vienen con ellos.  
